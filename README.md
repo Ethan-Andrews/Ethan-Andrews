@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethan-Andrews
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Webapp pentesting
+- 👀 I’m interested in Software Development and Cyber Security
+- 🌱 I’m currently learning data stuctures and algorithms in C++
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: 3eandrews3@gmail.com
 
