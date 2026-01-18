@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ethan-Andrews
-- 👀 I’m interested in Software Development and Cyber Security
+- 👀 I’m interested in Cyber Security, AI, and Writing Books
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: 3eandrews3@gmail.com
 
